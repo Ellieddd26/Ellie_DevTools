@@ -1,2 +1,0 @@
-# Ellied
-This is Ellie
